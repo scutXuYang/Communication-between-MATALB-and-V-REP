@@ -1,4 +1,4 @@
-
+%% git_test
 function baxter_write()
    disp('Program started');
    % vrep=remApi('remoteApi','extApi.h'); % using the header (requires a compiler)
